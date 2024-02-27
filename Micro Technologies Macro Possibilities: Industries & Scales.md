@@ -1,4 +1,5 @@
-# Micro Economies Big Possibilities: Industries & Scales
+# Micro Technologies Macro Possibilities: Industries & Scales
+<p>&nbsp;</p>
 
 General research to encapsulate everything from the atomic level to microorganisms, including industry sizes, the impact of technology, and now, startup expenses and tools required for each sector.
 A panoramic view of the scale, technological requirements, economic implications, and the logistical considerations of starting and operating in various scientific and technological sectors, from the fundamental particles of the universe to complex biological entities.
@@ -49,7 +50,7 @@ Research by [DNALOB]
 
 <p>&nbsp;</p>
 
-TOC:
+TOC: soon.
 
 
 
